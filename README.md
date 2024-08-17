@@ -4,7 +4,12 @@
 
 #### This project analyzes sales data to uncover patterns and trends in product performance across different product categories.
 
-###  Objective: Create an annual sales report for 2022, to understand customers and grow more sales in 2023   
+###  Objective: Objective:
+Analyze sales performance across different periods and product categories to identify trends, optimize inventory management, and inform marketing strategies.   
+
+Key Questions:
+How do sales patterns differ between weekdays and weekends?
+Which product categories perform best overall? etc
 
 ## Data Sources
 The analysis uses two main data tables:
