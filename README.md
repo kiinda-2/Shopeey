@@ -33,13 +33,16 @@ The analysis uses two main data tables:
    - Q4 sales are 40% higher than other quarters, likely due to holiday shopping
   
 ## Visualizations
-![Store dashboard](![shopeey toys](https://github.com/user-attachments/assets/7d303b41-af1e-4508-bd3e-635e1a480dbe)   
+###### Store dashboard
+![ Store dashboard](https://github.com/user-attachments/assets/7d303b41-af1e-4508-bd3e-635e1a480dbe)   
 
 ![Sales by Day of Week](https://github.com/user-attachments/assets/163e8246-7374-423e-99ba-515e77f9c8eb)   
 
-![Top Sales Product Performance](https://github.com/user-attachments/assets/9e7158b1-c19e-4493-85ca-08c229d7afa8)   
+###### Top Sales Product Performance
+![ Top Sales Product Performance](https://github.com/user-attachments/assets/9e7158b1-c19e-4493-85ca-08c229d7afa8)   
 
-![Monthly Performance](![monthly trend](https://github.com/user-attachments/assets/e3e0ab7c-6226-44c1-9c9e-0362e6eeb5bc)
+###### Monthly Performance
+![Monthly Performance](https://github.com/user-attachments/assets/e3e0ab7c-6226-44c1-9c9e-0362e6eeb5bc)
 
   
 ## Future Work
